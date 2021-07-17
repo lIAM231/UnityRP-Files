@@ -10,6 +10,13 @@ I suppose that now new rare5m owner will claim  that those are fake but whatever
 files include : 
 Many 3.0 scripts (Hunting etc) 
 Many custom made scripts (Phone custmoized Custom casino script and so more)
+1. Insert the sql (sql.sql) file
+2. Set your key at the server.cfg | steam_webApiKey | sv_licenseKey
+3. put Artifact
+4. create run.bat file 
+
+~ LiamInChains#0532,YehonataNN#0001  ~
+
 
 
 
@@ -17,7 +24,7 @@ Many custom made scripts (Phone custmoized Custom casino script and so more)
 
 special thanks :  YehonataNN#0001 Aka BrunoMarc Real UnityRP Developer who did almost everything.
 Keiron#1111 For being 100% retarted and for his trash framework and of course his dogshit dev skils
-and last but not least Me  -  LiamInChains#9999 
+and last but not least Me  -  LiamInChains#0532
 
 
 Wall of shame : 
