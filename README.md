@@ -4,6 +4,7 @@ Full files for late 1.0 UnityRP Whole custom framework included
 As rare5m came to and end, a lot of pepole are trying to sell  Fake versions of thosee files.
 as im no longer part of Rare5m or anyhthing that is related to FiveM i realesing those files for free downloadable on github. those are the legit files with the legit framework.
 I suppose that now new rare5m owner will claim  that those are fake but whatever. 
+i do not consent any reselling of UnityRP Base. its fully open source and free to use.
 
 
 
